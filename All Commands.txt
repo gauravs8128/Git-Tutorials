@@ -1,9 +1,9 @@
-Here are All The commands for git and github .
+Here are All The commands for git and GitHub .
 
 1--> git status (To check the status if no files are modified or not ).
-2--> git log  (To see all the commints and changes made previously).
+2--> git log  (To see all the commit and changes made previously).
 3--> git add . ( Adds all the files to the staging area ) .
-4--> git commin -m "MESSAGE"  (commits the file, commits the changes ).
-5--> git remote add origin git@github.com:gauravs8128/Git-Tutorials.git ([ Adds The Origin ] :Adds the adress of the online website that hosts the code , 
+4--> git commit -m "MESSAGE"  (commits the file, commits the changes ).
+5--> git remote add origin git@github.com:gauravs8128/Git-Tutorials.git ([ Adds The Origin ] :Adds the address of the online website that hosts the code , 
      so that to push or pull the changes to the website).
 6--> git push -u origin master  ( pushes the changes to the origin or Code hosting website , that is online ) .
