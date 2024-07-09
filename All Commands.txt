@@ -7,3 +7,4 @@ Here are All The commands for git and GitHub .
 5--> git remote add origin git@github.com:gauravs8128/Git-Tutorials.git ([ Adds The Origin ] :Adds the address of the online website that hosts the code , 
      so that to push or pull the changes to the website).
 6--> git push -u origin master  ( pushes the changes to the origin or Code hosting website , that is online ) .
+7--> git pull origin master (pull the code from the server) 
