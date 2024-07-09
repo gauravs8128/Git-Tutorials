@@ -7,4 +7,9 @@ Here are All The commands for git and GitHub .
 5--> git remote add origin git@github.com:gauravs8128/Git-Tutorials.git ([ Adds The Origin ] :Adds the address of the online website that hosts the code , 
      so that to push or pull the changes to the website).
 6--> git push -u origin master  ( pushes the changes to the origin or Code hosting website , that is online ) .
-7--> git pull origin master (pull the code from the server) 
+7--> git pull origin master (pull the code from the server) .
+8--> git diff <file name>  ( It shows what changes you have made in the specific file ).
+9--> git diff ( Tells all the changes that are made ).
+10--> git diff --staged <filename>  (tells the changes that have been made , to the staged files , that means after u used git add . , 
+      you are asking changes in the file ).
+11--> 
