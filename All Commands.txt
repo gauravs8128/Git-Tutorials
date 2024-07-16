@@ -27,4 +27,4 @@ Here are All The commands for git and GitHub .
 20--> git merge <branchname>  (merges the existing branch <branchname> to the master branch ) .
 21--> git branch -d <branchname>  (deletes the branch from the local computer).
 22--> git push origin --delete <branchname>  (deletes the branch from the code hosting website , away from the local computer ) .
-23--> 
+23--> git branch -M <branchnameNEW>  (adds a new branch to the repo) .
