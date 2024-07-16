@@ -1,5 +1,7 @@
 Here are All The commands for git and GitHub .
 
+
+0--> git init ( To make the current file directory a git repository ) .
 1--> git status (To check the status if no files are modified or not ).
 2--> git log  (To see all the commit and changes made previously).
 3--> git add . ( Adds all the files to the staging area ) .
@@ -12,4 +14,17 @@ Here are All The commands for git and GitHub .
 9--> git diff ( Tells all the changes that are made ).
 10--> git diff --staged <filename>  (tells the changes that have been made , to the staged files , that means after u used git add . , 
       you are asking changes in the file ).
-11--> 
+11--> git add <file name>  (to stage a particular file).
+12--> git checkout . ( purane commit tk pahunch sakte h ).
+13--> git clone <URL>  (this clones all the codes and all the folders to your local machine, and this is the git way of doing this ) .
+14--> git clone <URL> .  (this clones the whole git repository into your local machine in the specific folder where you have opened the git bash ) .
+15--> touch .gitignore ( makes a folder named .gitignore , which will help us to not to track Specific files of our choice ) .
+16--> git rm --cached <filename>  (if a file that is already been tracked , and now you don't want to track it ,use this command ,
+      because the file still has the old data that has been tracked ) .
+17--> git branch ( shows all the branches in the system ) .
+18--> git branch <branchnameNEW>  (adds a new branch to the repo) .
+19--> git checkout <branchnameEXISTING> (Takes you to that branch , switches the branch ) .
+20--> git merge <branchname>  (merges the existing branch <branchname> to the master branch ) .
+21--> git branch -d <branchname>  (deletes the branch from the local computer).
+22--> git push origin --delete <branchname>  (deletes the branch from the code hosting website , away from the local computer ) .
+23--> 
